@@ -17,6 +17,7 @@ namespace empresa {
 
         public setCredito(credito:number){
             this._credito = credito;
+
         }
     }
 }
